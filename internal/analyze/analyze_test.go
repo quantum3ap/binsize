@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hassonyshaker633-svg/binsize/internal/analyze"
-	"github.com/hassonyshaker633-svg/binsize/internal/diffreport"
-	"github.com/hassonyshaker633-svg/binsize/internal/report"
+	"github.com/quantum3ap/binsize/internal/analyze"
+	"github.com/quantum3ap/binsize/internal/diffreport"
+	"github.com/quantum3ap/binsize/internal/report"
 )
 
 // Fixtures are compiled at test time rather than committed to testdata/.

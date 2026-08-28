@@ -14,9 +14,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/hassonyshaker633-svg/binsize/internal/analyze"
-	"github.com/hassonyshaker633-svg/binsize/internal/diffreport"
-	"github.com/hassonyshaker633-svg/binsize/internal/report"
+	"github.com/quantum3ap/binsize/internal/analyze"
+	"github.com/quantum3ap/binsize/internal/diffreport"
+	"github.com/quantum3ap/binsize/internal/report"
 )
 
 var version = "0.1.0-dev" // set via -ldflags at release time

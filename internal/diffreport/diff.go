@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/hassonyshaker633-svg/binsize/internal/report"
+	"github.com/quantum3ap/binsize/internal/report"
 )
 
 // GroupDelta is one group's change between base and head.

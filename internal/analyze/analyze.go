@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hassonyshaker633-svg/binsize/internal/attrib"
-	"github.com/hassonyshaker633-svg/binsize/internal/report"
+	"github.com/quantum3ap/binsize/internal/attrib"
+	"github.com/quantum3ap/binsize/internal/report"
 )
 
 // Options configures a single analysis run.

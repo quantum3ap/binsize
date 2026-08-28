@@ -34,7 +34,7 @@ Renders as a PR comment:
 ## Install
 
 ```sh
-go install github.com/hassonyshaker633-svg/binsize/cmd/binsize@latest
+go install github.com/quantum3ap/binsize/cmd/binsize@latest
 ```
 
 ## Usage

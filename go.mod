@@ -1,3 +1,3 @@
-module github.com/hassonyshaker633-svg/binsize
+module github.com/quantum3ap/binsize
 
 go 1.22

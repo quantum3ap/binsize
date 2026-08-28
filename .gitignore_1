@@ -1,0 +1,16 @@
+# Build output
+/binsize
+*.exe
+*.test
+
+# Fixtures used during manual testing (test suite builds its own in tempdirs)
+/tmp/
+*.bin
+
+# Editor/OS cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Go
+/vendor/
